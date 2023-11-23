@@ -1,0 +1,10 @@
+A - Application
+P - Programming
+I - Interface
+
+HTTPS - Hyper Text Transfer Protocol Secured
+
+C - Create => POST
+R - Read => GET
+U - Update => PUT, PATCH
+D - Delete => DELETE
